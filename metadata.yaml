@@ -1,0 +1,26 @@
+_repo: Saltego-trans-jarmiloj_69123
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forge, Jean
+    gutenberg_agent_id: '55121'
+    url: http://www.gutenberg.org/2009/agents/55121
+description: ''
+gutenberg_issued: '2022-10-10'
+identifiers:
+  gutenberg: '69123'
+language: eo
+pgterms:marc904: https://hdl.handle.net/11013/6440
+pgterms:marc905: 20210305103557forge
+pgterms:marc906: '1924'
+pgterms:marc907: de
+production_note: Andrew Sly, Miroslav Malovec and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: Germany :Ferdinand Hirt & Sohn,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Saltego trans jarmiloj
+url: http://www.gutenberg.org/ebooks/69123
